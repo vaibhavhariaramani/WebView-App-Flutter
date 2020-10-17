@@ -40,8 +40,6 @@ Some Popular Flutter Dependancies are:
 
 # CUIMS---Chandigarh-University-Management-System-Login-App
 
-[<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/raw/master/CuimsByVaibhavHariramani.apk)
-
 
 <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/splash.png"> <img width="230"  src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/login.png">  <img width="200" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/home.png"> <img width="220" src="https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/blob/master/cuima_Images/menu.png"> [<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/CUIMS---Chandigarh-University-Management-System-Login-App/raw/master/CuimsByVaibhavHariramani.apk)
 
