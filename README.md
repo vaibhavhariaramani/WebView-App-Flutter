@@ -14,7 +14,8 @@ Some Popular Flutter Dependancies are:
 ### 3.) [Simple-WebView](Simple-WebView/)
 
 ## Checkout above apk here :
-=============================
+
+
 <img width="250"  align='right' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1(1).png">
 
 
@@ -29,6 +30,11 @@ Some Popular Flutter Dependancies are:
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # coronavirus_tracker APP
 <img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/covid19_tracker.apk)
@@ -77,7 +83,7 @@ Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
 <a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/email.png"></a>&nbsp;&nbsp;
 </p>
 
-[<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
+[<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
 
 Download [THE VAIBHAV HARIRAMANI APP](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) consist of Tutorials,Projects,Blogs and Vlogs of our Site developed Using Android Studio with Web View try installing it in your android device.
 
