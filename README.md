@@ -16,7 +16,7 @@ Some Popular Flutter Dependancies are:
 ## Checkout above apk here :
 
 
-<img width="150"  align='right' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1.png"> <img width="150" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1(1).png">
+<img width="200"  align='right' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1.png"> <img width="200" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1(1).png">
 
 
 
