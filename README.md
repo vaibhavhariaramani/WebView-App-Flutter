@@ -33,9 +33,7 @@ Some Popular Flutter Dependancies are:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 # coronavirus_tracker APP
 <img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/covid19_tracker.apk)
