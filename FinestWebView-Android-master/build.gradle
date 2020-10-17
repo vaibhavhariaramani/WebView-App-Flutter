@@ -1,0 +1,21 @@
+apply from: './gradle/dependencies.gradle'
+
+buildscript {
+    apply from: './gradle/dependencies.gradle'
+
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:' + versions.gradlePlugin
+        classpath 'com.novoda:bintray-release:' + versions.bintrayRelease
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+    }
+}

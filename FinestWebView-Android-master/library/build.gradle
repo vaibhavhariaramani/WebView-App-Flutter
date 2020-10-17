@@ -1,0 +1,41 @@
+apply from: '../gradle/dependencies.gradle'
+apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+android {
+    compileSdkVersion versions.compileSdk
+    buildToolsVersion versions.buildTools
+
+    defaultConfig {
+        minSdkVersion versions.minSdk
+        targetSdkVersion versions.compileSdk
+        versionCode versions.publishVersionCode
+        versionName versions.publishVersion
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:support-annotations:' + versions.supportLib
+    implementation 'com.android.support:appcompat-v7:' + versions.supportLib
+    implementation 'com.android.support:design:' + versions.supportLib
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.thefinestartist:utils:0.9.0'
+    annotationProcessor 'com.thefinestartist:compilers:0.9.0'
+}
+
+publish {
+    userOrg = 'thefinestartist'
+    groupId = 'com.thefinestartist'
+    artifactId = 'finestwebview'
+    publishVersion = versions.publishVersion
+    desc = 'Beautiful and customizable Android Activity that shows web pages within an app.'
+    website = 'https://finestwebview.com'
+}
+
+//$ ./gradlew clean build bintrayUpload -PbintrayUser=thefinestartist -PbintrayKey=BINTRAY_KEY -PdryRun=false
