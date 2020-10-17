@@ -1,5 +1,5 @@
 # WebView-App-Flutter
-=====================
+===
 This repo contains some flutter libraries that you can use for web view 
 Some Popular Flutter Dependancies are:
 | libraries | URL | EXAMPLE | Tutorial |
@@ -8,7 +8,7 @@ Some Popular Flutter Dependancies are:
 | flutter_webview_plugin | [https://pub.dev/packages/flutter_webview_plugin](https://pub.dev/packages/flutter_webview_plugin) | [here](https://pub.dev/packages/flutter_webview_plugin/example) | [here](https://medium.com/geeky-bawa) |
 
 ## Checkout some sample folder:
-===============================
+====
 ### 1.) [Webview-Flutter](Webview-Flutter/)
 ### 2.) [FinestWebView-Android](FinestWebView-Android-master/)
 ### 3.) [Simple-WebView](Simple-WebView/)
@@ -16,48 +16,6 @@ Some Popular Flutter Dependancies are:
 ## Checkout above apk here :
 =============================
 <img width="250"  align='right' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version1/v1(1).png">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 
 
@@ -65,18 +23,7 @@ Some Popular Flutter Dependancies are:
 
 ### [vaibhav hariramani app v1.0](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/vaibhav%20hariramani%20app%20v1.0.apk)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 # coronavirus_tracker APP
 <img width="200" src="https://github.com/vaibhavhariaramani/App-Development/blob/master/images/covid1.png"> [<img width="350" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/WebView-App-Flutter/raw/main/covid19_tracker.apk)
